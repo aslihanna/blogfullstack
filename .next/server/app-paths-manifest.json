@@ -1,0 +1,7 @@
+{
+  "/admin/tags/page": "app/admin/tags/page.js",
+  "/admin/categories/page": "app/admin/categories/page.js",
+  "/admin/users/page": "app/admin/users/page.js",
+  "/admin/blogs/page": "app/admin/blogs/page.js",
+  "/admin/stats/page": "app/admin/stats/page.js"
+}
